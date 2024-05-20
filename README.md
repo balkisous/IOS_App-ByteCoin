@@ -4,15 +4,16 @@
 
 ## Goal's Project 🎯
 
-bla
+This project strengthened my knowledge of Application Programming Interfaces (APIs) to grab live data from the internet.
 
 ## What I create 🧱
 
-bla
+By the end of this module, I have made an app that shows the currency of Bitcoin.
 
 ## What I learn 📖
 
-* write something
+* Learn to use URLSession to network and make HTTP requests.
+* Parse JSON with the native Encodable and Decodable protocols.
 
 
 >I made this project with App Brewery's Complete App Development Bootcamp.
