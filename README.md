@@ -1,6 +1,6 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# IOS_App-ByteCoin 💰
+# ByteCoin 💰
 
 ## Goal's Project 🎯
 
