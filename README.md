@@ -6,11 +6,11 @@
 
 This project strengthened my knowledge of Application Programming Interfaces (APIs) to grab live data from the internet.
 
-## What I create 🧱
+## What I created 🧱
 
 By the end of this module, I have made an app that shows the currency of Bitcoin.
 
-## What I learn 📖
+## What I learned 📖
 
 * Learn to use URLSession to network and make HTTP requests.
 * Parse JSON with the native Encodable and Decodable protocols.
