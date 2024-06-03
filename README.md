@@ -3,11 +3,6 @@
 # ByteCoin 💰
 
 ## Goal's Project 🎯
-
-https://github.com/balkisous/IOS_App-ByteCoin/assets/76943138/5f9fd77f-e403-4788-a9ef-eeab01b664a5
-
-
-
 This project strengthened my knowledge of Application Programming Interfaces (APIs) to grab live data from the internet.
 
 ## What I created 🧱
